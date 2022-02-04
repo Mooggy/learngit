@@ -5,3 +5,6 @@ Git has a mutable index called stage.
 My stupid boss xxx mmm dddd
 
 devsv
+
+
+deegfg
